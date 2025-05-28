@@ -12,7 +12,7 @@
 
 header{
 
-  background-color: #e5e5e5;
+  background-color: #00bfff;
   padding: 15px;
   text-align: center;
 
@@ -28,7 +28,7 @@ nav{
 
 nav a{
   overflow: auto;
-  background-color: #e5e5e5;
+  background-color: #00bfff;
   padding: 8px;
   margin-top: 7px;
   display: block;
@@ -37,6 +37,9 @@ nav a{
 
 }
 
+nav p{
+align: center
+}
 
 
 article{
@@ -48,7 +51,7 @@ article{
 }
 
 aside{
-    background-color: #e5e5e5;
+    background-color: #00bfff;
 	float: left;
 	width: 20%;
     padding: 15px;
@@ -63,7 +66,7 @@ section::after{
 }
 
 footer{
-  background-color: #e5e5e5;
+  background-color: #00bfff;
   text-align: center;
   padding: 10px;
   margin-top: 7px;
@@ -78,6 +81,8 @@ nav, article, aside {
 
 }
 
+body {
+    background-color: 	#f0f8ff; }
 
 
 
